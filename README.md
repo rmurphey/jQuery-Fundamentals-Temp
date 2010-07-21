@@ -1,6 +1,7 @@
 # jQuery Fundamentals Training Material #
 This repository contains evolving content to be used as teaching material for a jQuery Fundamentals class, including exercises, solutions, and a web-based book. 
 
+
 If you're looking for the latest release of the book, visit http://www.rebeccamurphey.com/jqfundamentals/ or download the [most recent tag](http://github.com/rmurphey/jqfundamentals/downloads) and navigate to /book/release/html/. 
 
 ## Contributing ##
